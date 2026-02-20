@@ -1,11 +1,14 @@
-# Welcome to Our Project Blog
+# Welcome to Our TOURCS Blog
 
-This is the documentation and weekly dev log for our university project. 
+This is our TORCS development blog.
 
 ### Team Members:
-* [Your Name]
-* [Teammate 2]
-* [Teammate 3]
+* Jimi Wilson
+* Kerem Nur
+* Hannah Krebs Rocha
+* Lewis Beamond
+* Oliver Holbourns
+* Rhys Womack
 
 ---
 
