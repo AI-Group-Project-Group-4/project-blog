@@ -24,7 +24,7 @@ Equipped with a better understanding of both the original code and the SCR Patch
 
 To ensure a clean separation of concerns, we divided our system into distinct components that handle specific parts of the data flow, as shown in the diagram below.
 
-![New Architecture Diagram](/assets/images/TORCS-project-architecture.png)
+![New Architecture Diagram]({{ site.baseurl }}/assets/images/TORCS-project-architecture.png)
 
 #### Torcs Client
 The original Torcs Client was arguably the most cryptic component of the codebase, making IBM Granite and the Competition Manual invaluable resources during the rewrite. 
