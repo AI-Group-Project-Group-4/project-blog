@@ -3,8 +3,6 @@ layout: post
 title: "Week 3: The Big Rewrite"
 ---
 
-# Week 3: The Big Rewrite
-
 ## Code Review
 We hit a major roadblock this week with the code review.
 After reviewing the codebase, we realised it was significantly outdated. It was written around 7 years ago and relied on deprecated libraries such as gym (which has since been replaced by gymnasium). 
