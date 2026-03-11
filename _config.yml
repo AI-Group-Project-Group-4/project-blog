@@ -2,5 +2,5 @@ title: "Team 04 TORCS Racing Blog"
 description: "Development blog for TORCS project."
 theme: jekyll-theme-minimal
 
-url: 'https://ai-group-project-group-4.github.io/project-blog/'
-baseurl: 'project-blog/'
+url: 'https://ai-group-project-group-4.github.io'
+baseurl: '/project-blog'
