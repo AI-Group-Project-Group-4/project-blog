@@ -1,4 +1,9 @@
-# Welcome to Our TOURCS Blog
+---
+layout: default
+title: Home
+---
+
+# Welcome to Our TORCS Blog
 
 This is our TORCS development blog.
 
