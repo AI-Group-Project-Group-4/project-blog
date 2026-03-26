@@ -7,14 +7,6 @@ title: Home
 
 This is our TORCS development blog.
 
-### Team Members:
-* Jimi Wilson
-* Kerem Nur
-* Hannah Krebs Rocha
-* Lewis Beamond
-* Oliver Holbourns
-* Rhys Womack
-
 ---
 
 ### Weekly Logs:
@@ -25,3 +17,11 @@ This is our TORCS development blog.
     </li>
   {% endfor %}
 </ul>
+
+---
+
+### Current Fastest Lap Time: 1:41.66 (101.66s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/60JVCn-JgNA?si=eWWsN1bBDibKYQIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
