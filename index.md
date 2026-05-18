@@ -20,9 +20,6 @@ This is our TORCS development blog.
 
 ---
 
-### Current Fastest Lap Time: 1:32.30
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yTuPL_EheMs?si=8zfnFK41uHJ1awbd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
