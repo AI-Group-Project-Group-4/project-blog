@@ -19,7 +19,11 @@ This is our TORCS development blog.
 </ul>
 
 ---
+<div class="video-wrapper">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TAAIgZqrP5Q?si=Gf9LnIM-BCQ2GppY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <br>
 
 <div class="video-wrapper">
